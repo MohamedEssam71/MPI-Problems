@@ -18,8 +18,9 @@ Write a parallel C program for "Counting Primes" using the following two methods
 
 **Input:**
 X = 1
-Y = 100
+
 **Output:**
+Y = 100
 
 ### Parallelization Scenario
 
