@@ -1,5 +1,5 @@
 # MPI-Problems
-HPC Assignment 1
+HPC Assignment 1-2
 
 This repository contains assignments for the High-Performance Computing course.
 
