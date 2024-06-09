@@ -13,6 +13,13 @@ Write a program to implement Caesar Cipher Encryption using parallel programming
 
 Refer to the [problem description](./Problem-Descriptions/problem2.md) for detailed specifications.
 
+
+## Problem 3
+Write a program to count the occurrences of a certain number in some files using parallel programming.
+
+Refer to the [problem description](./Problem-Descriptions/problem3.md) for detailed specifications.
+
+
 # Contributors
 
 * [Abdelrhman Gamal](https://github.com/Gamal72)
