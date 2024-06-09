@@ -28,13 +28,15 @@ Write a parallel C program to find out the number of occurrences of a certain nu
 ### Example
 
 **Input:**
+```
 Enter the directory for the files:
 D:\HPC\A2
 Enter number x: 3
+```
 
 **Output:**
 
-<p>
+``` 
 P0: Total number of occurrences = 6
 P1: Total number of occurrences = 4
 P2: Total number of occurrences = 2
@@ -46,4 +48,4 @@ P7: Total number of occurrences = 3
 P8: Total number of occurrences = 0
 P9: Total number of occurrences = 1
 Total number of occurrences in all 100 files = 42
-</p>
+```
